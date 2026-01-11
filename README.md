@@ -127,8 +127,8 @@ The results highlight the impact of key housing features and provide a strong fo
 
 ## 👩‍💻 Author
 
-**Name:** Mahnoor Kalsoom
-**Task:** AI/ML Internship – Task 6
-**Organization:** DevelopersHub Corporation
+**Name:** Mahnoor Kalsoom  
+**Task:** AI/ML Internship – Task 6  
+**Organization:** DevelopersHub Corporation  
 
 ---
